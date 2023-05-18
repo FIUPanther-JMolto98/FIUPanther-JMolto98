@@ -18,7 +18,12 @@ Welcome to my GitHub profile. My name is Joaquin Molto. I am pursuing a Master o
 ![GNU Bash](https://a11ybadges.com/badge?logo=gnubash)
 
 <h3 align="left">PROGRAMMING 🤖</h3>
-<h4 align=:"left">IDE/TEXT EDITING</h4>
+<h4 align="left">VERSION CONTROL:</h4>
+
+![Git](https://a11ybadges.com/badge?logo=git)
+![GitHub](https://a11ybadges.com/badge?logo=github)
+
+<h4 align="left">IDE/TEXT EDITING</h4>
 
 
 ![Visual Studio Code](https://a11ybadges.com/badge?logo=visualstudiocode)
@@ -39,7 +44,9 @@ Welcome to my GitHub profile. My name is Joaquin Molto. I am pursuing a Master o
 ![C++](https://a11ybadges.com/badge?logo=cplusplus)
 ![Java](https://a11ybadges.com/badge?logo=java)
 ![Python](https://a11ybadges.com/badge?logo=python)
+![R](https://a11ybadges.com/badge?logo=r)
 
+![Angular](https://a11ybadges.com/badge?logo=angular)
 ![HTML5](https://a11ybadges.com/badge?logo=html5)
 ![CSS3](https://a11ybadges.com/badge?logo=css3)
 ![JavaScript](https://a11ybadges.com/badge?logo=javascript)
@@ -50,6 +57,7 @@ Welcome to my GitHub profile. My name is Joaquin Molto. I am pursuing a Master o
 ![PostgreSQL](https://a11ybadges.com/badge?logo=postgresql)
 ![MongoDB](https://a11ybadges.com/badge?logo=mongodb)
 
-<h3 align="left">CAD 🧮</h3>
+<h3 align="left">MATH 🧮</h3>
 
+![LaTeX](https://a11ybadges.com/badge?logo=latex)
 ![Wolfram](https://a11ybadges.com/badge?logo=wolfram)
