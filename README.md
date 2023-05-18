@@ -59,5 +59,5 @@ Welcome to my GitHub profile. My name is Joaquin Molto. I am pursuing a Master o
 
 <h3 align="left">MATH 🧮</h3>
 
-![LaTeX](https://a11ybadges.com/badge?logo=latex)
 ![Wolfram](https://a11ybadges.com/badge?logo=wolfram)
+![LaTeX](https://a11ybadges.com/badge?logo=latex)
