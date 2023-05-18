@@ -8,9 +8,9 @@
 
 <p align="left">My name is Joaquin Molto, a Florida International University (FIU) graduate student. I graduated from FIU with a Bachelor of Science in Computer Science (Software Engineering Track) with a Minor in Mathematical Sciences (Single Variable Calculus I through Multivariable Calculus (Calc. III), Differential Equations, and Linear Algebra). Starting Summer 2023, I matriculated in the Master of Science in Computer Science program at FIU. I am passionate about Software Development as well as Artificial Intelligence and Machine Learning.</p>
 <h2 align="left">CONTACT ME 🐦</h2>
-<a href="https://www.linkedin.com/in/joaquin-molto-fiucompsci/"> ➤ LinkedIn</a>
+<a href="https://www.linkedin.com/in/joaquin-molto-fiucompsci/"> 💼LinkedIn</a>
 
-<a href="https://fiu.joinhandshake.com/stu/users/29993123"> ➤ HandShake</a>
+<a href="https://fiu.joinhandshake.com/stu/users/29993123"> 🤝HandShake</a>
 <h2 align="left">TECHNOLOGIES ⚙️</h2>
 
 
