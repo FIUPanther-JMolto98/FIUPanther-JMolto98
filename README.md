@@ -1,6 +1,6 @@
 <h1 align="center">WELCOME TO MY GITHUB PROFILE</h1>
 
-==>![](https://github.com/FIUPanther-JMolto98/FIUPanther-JMolto98/blob/main/roary_run_jump_land.gif)
+![](https://github.com/FIUPanther-JMolto98/FIUPanther-JMolto98/blob/main/roary_run_jump_land.gif)
 ![Joaquin's GitHub stats](https://github-readme-stats.vercel.app/api?username=FIUPanther-JMolto98&show_icons=true&theme=aura_dark)
 
 <h2 align="left">ABOUT ME 👨‍💻</h2>
@@ -8,7 +8,7 @@ Welcome to my GitHub profile. My name is Joaquin Molto. I am pursuing a Master o
 <h2 align="left">TECHNOLOGIES ⚙️</h2>
 
 <h3 align="left">OS 💾</h3>
-
+  
 ![Windows](https://a11ybadges.com/badge?logo=windows)
 ![Linux](https://a11ybadges.com/badge?logo=linux)
 
