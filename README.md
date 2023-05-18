@@ -2,13 +2,17 @@
 
 ![](https://github.com/FIUPanther-JMolto98/FIUPanther-JMolto98/blob/main/roary_run_jump_land.gif)
 ![Joaquin's GitHub stats](https://github-readme-stats.vercel.app/api?username=FIUPanther-JMolto98&show_icons=true&theme=aura_dark)
-![](https://github.com/FIUPanther-JMolto98/FIUPanther-JMolto98/blob/main/roary_run_jump_land.gif)
 
 <h2 align="left">ABOUT ME 👨‍💻</h2>
 <p align="left">Welcome to my GitHub profile!</p>
 
 <p align="left">My name is Joaquin Molto, a Florida International University (FIU) graduate student. I graduated from FIU with a Bachelor of Science in Computer Science (Software Engineering Track) with a Minor in Mathematical Sciences (Single Variable Calculus I through Multivariable Calculus (Calc. III), Differential Equations, and Linear Algebra). Starting Summer 2023, I matriculated in the Master of Science in Computer Science program at FIU. I am passionate about Software Development as well as Artificial Intelligence and Machine Learning.</p>
+<h2 align="left">CONTACT ME 🐦</h2>
+<a href="https://www.linkedin.com/in/joaquin-molto-fiucompsci/"> > LinkedIn</a>
+
+<a href="https://fiu.joinhandshake.com/stu/users/29993123"> > HandShake</a>
 <h2 align="left">TECHNOLOGIES ⚙️</h2>
+
 
 <h3 align="left">OS 💾</h3>
   
