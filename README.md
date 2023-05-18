@@ -4,7 +4,7 @@
 ![Joaquin's GitHub stats](https://github-readme-stats.vercel.app/api?username=FIUPanther-JMolto98&show_icons=true&theme=aura_dark)
 
 <h2 align="left">ABOUT ME 👨‍💻</h2>
-Welcome to my GitHub profile. My name is Joaquin Molto. I am pursuing a Master of Science in Computer Science from Florida International University (FIU), where I graduated with a Bachelor of Science in Computer Science (Software Design and Development Track) and a Minor in Mathematical Sciences.
+Welcome to my GitHub profile. My name is Joaquin Molto, a Florida International University (FIU) graduate student. I graduated from FIU with a Bachelor of Science in Computer Science (Software Engineering Track) with a Minor in Mathematical Sciences (Single Variable Calculus I through Multivariable Calculus (Calc. III), Differential Equations, and Linear Algebra). Starting Summer 2023, I matriculated in the Master of Science in Computer Science program at FIU. I am passionate about Software Development as well as Artificial Intelligence and Machine Learning.
 <h2 align="left">TECHNOLOGIES ⚙️</h2>
 
 <h3 align="left">OS 💾</h3>
