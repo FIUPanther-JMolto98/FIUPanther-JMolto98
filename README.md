@@ -21,7 +21,7 @@
 
 <a href="https://fiu.joinhandshake.com/stu/users/29993123"> 🤝HandShake</a>
 <h2 align="left">TECHNOLOGIES ⚙️</h2>
-
+<details open="open"><summary>CLICK TO COLLAPSE/EXPAND</summary>
 
 <h3 align="left">OS 💾</h3>
   
@@ -78,3 +78,5 @@
 
 ![Wolfram](https://a11ybadges.com/badge?logo=wolfram)
 ![LaTeX](https://a11ybadges.com/badge?logo=latex)
+  
+</details>
