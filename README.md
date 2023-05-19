@@ -21,7 +21,6 @@
 
 <a href="https://fiu.joinhandshake.com/stu/users/29993123"> 🤝HandShake</a>
 <h2 align="left">TECHNOLOGIES ⚙️</h2>
-<details open="open"><summary>CLICK TO COLLAPSE/EXPAND</summary>
 
 <details><summary><h3 align="left">OS 💾</h3></summary>
   
@@ -33,19 +32,24 @@
 
 </details>
 
-<h3 align="left">TERMINALS 🖥️</h3>
+<details><summary><h3 align="left">TERMINALS 🖥️</h3></summary>
 
 ![Windows Terminal](https://a11ybadges.com/badge?logo=windowsterminal)
 ![PowerShell](https://a11ybadges.com/badge?logo=powershell)
 ![GNU Bash](https://a11ybadges.com/badge?logo=gnubash)
 
-<h3 align="left">PROGRAMMING 🤖</h3>
-<h4 align="left">VERSION CONTROL:</h4>
+</details>
+  
+<details><summary><h3 align="left">PROGRAMMING 🤖</h3></summary>
+
+<details><summary><h4 align="left">VERSION CONTROL:</h4></summary>
 
 ![Git](https://a11ybadges.com/badge?logo=git)
 ![GitHub](https://a11ybadges.com/badge?logo=github)
 
-<h4 align="left">IDE/TEXT EDITING</h4>
+</details>
+
+<details><summary><h4 align="left">IDE/TEXT EDITING</h4></summary>
 
 
 ![Visual Studio Code](https://a11ybadges.com/badge?logo=visualstudiocode)
@@ -54,7 +58,9 @@
 ![Vim](https://a11ybadges.com/badge?logo=vim)
 ![Neovim](https://a11ybadges.com/badge?logo=neovim)
 
-<h4 align="left">DEVELOPMENT</h4>
+</details>
+  
+<details><summary><h4 align="left">DEVELOPMENT</h4></summary>
 
 <h5 align="left">RESOURCES</h4>
 
@@ -90,7 +96,9 @@
 ![PostgreSQL](https://a11ybadges.com/badge?logo=postgresql)
 ![MongoDB](https://a11ybadges.com/badge?logo=mongodb)
 
-<h4 align="left">DATA ANALYSIS</h4>
+</details> 
+  
+<details><summary><h4 align="left">DATA ANALYSIS</h4></summary>
 
 ![Anaconda](https://a11ybadges.com/badge?logo=anaconda)
 ![Jupyter](https://a11ybadges.com/badge?logo=jupyter)
@@ -99,10 +107,14 @@
 ![pandas](https://a11ybadges.com/badge?logo=pandas)
 ![NumPy](https://a11ybadges.com/badge?logo=numpy)
 ![scikit-learn](https://a11ybadges.com/badge?logo=scikitlearn)
-  
-<h3 align="left">MATH 🧮</h3>
+
+</details>
+</details>
+
+<details><summary><h3 align="left">MATH 🧮</h3></summary>
 
 ![Wolfram](https://a11ybadges.com/badge?logo=wolfram)
 ![LaTeX](https://a11ybadges.com/badge?logo=latex)
-  
+
+</details>
 </details>
