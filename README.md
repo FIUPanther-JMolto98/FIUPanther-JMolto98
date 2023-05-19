@@ -4,18 +4,14 @@
 ![Joaquin's GitHub stats](https://github-readme-stats.vercel.app/api?username=FIUPanther-JMolto98&show_icons=true&theme=aura_dark)
 
 <h2 align="left">ABOUT ME 👨‍💻</h2>
-<h3 align="center">EDUCATION</h3>
-<p>$${\color{gold}GRAD:}$$</p>
+<!-- <h3 align="center">EDUCATION</h3>
 
-<p align="center">M.S. in Computer Science</p>
-
-<p>$${\color{lightblue}UGRAD:}$$</p>
-
-<p align="center">B.S. in Computer Science (SDD Track)</p>
-
-<p>$${\color{pink}MINOR:}$$</p>
-
-<p align="center">Mathematical Sciences</p>
+<!-- <p>$${\color{gold}GRAD:}$$</p> -->
+<!-- <p align="center">M.S. in Computer Science</p> -->
+<!-- <p>$${\color{lightblue}UGRAD:}$$</p> -->
+<!-- <p align="center">B.S. in Computer Science (SDD Track)</p> -->
+<!-- <p>$${\color{pink}MINOR:}$$</p> -->
+<!-- <p align="center">Mathematical Sciences</p> -->
 
 <p align="left">My name is Joaquin Molto, a Florida International University (FIU) graduate student.</p>
 <p align="left">I graduated from FIU with a Bachelor of Science in Computer Science (Software Engineering Track) and a Minor in Mathematical Sciences (Single Variable Calculus I through Multivariable Calculus (Calc. III), Differential Equations, and Linear Algebra) in Spring 2023.</p>
