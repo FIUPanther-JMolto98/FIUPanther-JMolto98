@@ -23,14 +23,20 @@
 <h2 align="left">TECHNOLOGIES ⚙️</h2>
 <details open="open"><summary>CLICK TO COLLAPSE/EXPAND</summary>
 
-<h3 align="left">OS 💾</h3>
+<details><summary><h3 align="left">OS 💾</h3></summary>
   
 ![Windows](https://a11ybadges.com/badge?logo=windows)
 ![Linux](https://a11ybadges.com/badge?logo=linux)
+![CentOS](https://a11ybadges.com/badge?logo=centos)
+![Fedora](https://a11ybadges.com/badge?logo=fedora)
+![Ubuntu](https://a11ybadges.com/badge?logo=ubuntu)
+
+</details>
 
 <h3 align="left">TERMINALS 🖥️</h3>
 
 ![Windows Terminal](https://a11ybadges.com/badge?logo=windowsterminal)
+![PowerShell](https://a11ybadges.com/badge?logo=powershell)
 ![GNU Bash](https://a11ybadges.com/badge?logo=gnubash)
 
 <h3 align="left">PROGRAMMING 🤖</h3>
@@ -48,32 +54,52 @@
 ![Vim](https://a11ybadges.com/badge?logo=vim)
 ![Neovim](https://a11ybadges.com/badge?logo=neovim)
 
-![Anaconda](https://a11ybadges.com/badge?logo=anaconda)
-![Jupyter](https://a11ybadges.com/badge?logo=jupyter)
-![Google Colab](https://a11ybadges.com/badge?logo=googlecolab)
+<h4 align="left">DEVELOPMENT</h4>
 
+<h5 align="left">RESOURCES</h4>
 
+![OpenAI](https://a11ybadges.com/badge?logo=openai)
+![Stack Overflow](https://a11ybadges.com/badge?logo=stackoverflow)
 
-
-<h4 align=:"left">LANGUAGES</h4>
-
+<h5 align="left">FRAMEWORKS</h4>
+  
+![Angular](https://a11ybadges.com/badge?logo=angular)
+![Apache Maven](https://a11ybadges.com/badge?logo=apachemaven)
+![Node.js](https://a11ybadges.com/badge?logo=nodedotjs)
+![Spring](https://a11ybadges.com/badge?logo=spring)
+ 
+<h5 align="left">LANGUAGES (OOP and FP)</h4>
+  
 ![C](https://a11ybadges.com/badge?logo=c)
 ![C++](https://a11ybadges.com/badge?logo=cplusplus)
 ![Java](https://a11ybadges.com/badge?logo=java)
 ![Python](https://a11ybadges.com/badge?logo=python)
 ![R](https://a11ybadges.com/badge?logo=r)
 
-![Angular](https://a11ybadges.com/badge?logo=angular)
+<h5 align="left">LANGUAGES (WEB DEV)</h4>
+  
 ![HTML5](https://a11ybadges.com/badge?logo=html5)
 ![CSS3](https://a11ybadges.com/badge?logo=css3)
 ![JavaScript](https://a11ybadges.com/badge?logo=javascript)
 ![TypeScript](https://a11ybadges.com/badge?logo=typescript)
 
+<h5 align="left">DATABASES</h4>
+  
 ![MySQL](https://a11ybadges.com/badge?logo=mysql)
 ![MariaDB](https://a11ybadges.com/badge?logo=mariadb)
 ![PostgreSQL](https://a11ybadges.com/badge?logo=postgresql)
 ![MongoDB](https://a11ybadges.com/badge?logo=mongodb)
 
+<h4 align="left">DATA ANALYSIS</h4>
+
+![Anaconda](https://a11ybadges.com/badge?logo=anaconda)
+![Jupyter](https://a11ybadges.com/badge?logo=jupyter)
+![Google Colab](https://a11ybadges.com/badge?logo=googlecolab)
+
+![pandas](https://a11ybadges.com/badge?logo=pandas)
+![NumPy](https://a11ybadges.com/badge?logo=numpy)
+![scikit-learn](https://a11ybadges.com/badge?logo=scikitlearn)
+  
 <h3 align="left">MATH 🧮</h3>
 
 ![Wolfram](https://a11ybadges.com/badge?logo=wolfram)
