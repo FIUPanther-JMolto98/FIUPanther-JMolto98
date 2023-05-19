@@ -1,6 +1,6 @@
 <h1 align="center">WELCOME TO MY GITHUB PROFILE</h1>
 
-![](https://github.com/FIUPanther-JMolto98/FIUPanther-JMolto98/blob/main/roary_run_slow.gif)
+![](https://github.com/FIUPanther-JMolto98/FIUPanther-JMolto98/blob/main/roary_run_slow_fixed.gif)
 ![Joaquin's GitHub stats](https://github-readme-stats.vercel.app/api?username=FIUPanther-JMolto98&show_icons=true&theme=aura_dark)
 
 <h2 align="left">ABOUT ME 👨‍💻</h2>
