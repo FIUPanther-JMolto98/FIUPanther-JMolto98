@@ -50,6 +50,7 @@
 
 ![Anaconda](https://a11ybadges.com/badge?logo=anaconda)
 ![Jupyter](https://a11ybadges.com/badge?logo=jupyter)
+![Google Colab](https://a11ybadges.com/badge?logo=googlecolab)
 
 
 
