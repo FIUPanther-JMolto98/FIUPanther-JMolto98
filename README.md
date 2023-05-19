@@ -42,7 +42,7 @@
   
 <details><summary><h3 align="left">PROGRAMMING 🤖</h3></summary>
 
-<details><summary><h4 align="left">VERSION CONTROL:</h4></summary>
+<details><summary><h4 align="left">VERSION CONTROL</h4></summary>
 
 ![Git](https://a11ybadges.com/badge?logo=git)
 ![GitHub](https://a11ybadges.com/badge?logo=github)
