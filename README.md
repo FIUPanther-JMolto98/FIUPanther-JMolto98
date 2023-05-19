@@ -4,17 +4,16 @@
 ![Joaquin's GitHub stats](https://github-readme-stats.vercel.app/api?username=FIUPanther-JMolto98&show_icons=true&theme=aura_dark)
 
 <h2 align="left">ABOUT ME 👨‍💻</h2>
-
-<p align="center"><b>WELCOME TO MY GITHUB PROFILE!</b></p>
-
-$${\color{gold}GRAD:}$$
+<h3 align="center">EDUCATION</h3>
+<p>$${\color{gold}GRAD:}$$</p>
 
 <p align="center">M.S. in Computer Science</p>
 
-$${\color{lightblue}UGRAD:}$$
+<p>$${\color{lightblue}UGRAD:}$$</p>
+
 <p align="center">B.S. in Computer Science (SDD Track)</p>
 
-$${\color{pink}MINOR:}$$
+<p>$${\color{pink}MINOR:}$$</p>
 
 <p align="center">Mathematical Sciences</p>
 
