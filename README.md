@@ -62,19 +62,19 @@
   
 <details><summary><h4 align="left">DEVELOPMENT</h4></summary>
 
-<h5 align="left">RESOURCES</h4>
+<h5 align="left">RESOURCES</h5>
 
 ![OpenAI](https://a11ybadges.com/badge?logo=openai)
 ![Stack Overflow](https://a11ybadges.com/badge?logo=stackoverflow)
 
-<h5 align="left">FRAMEWORKS</h4>
+<h5 align="left">FRAMEWORKS</h5>
   
 ![Angular](https://a11ybadges.com/badge?logo=angular)
 ![Apache Maven](https://a11ybadges.com/badge?logo=apachemaven)
 ![Node.js](https://a11ybadges.com/badge?logo=nodedotjs)
 ![Spring](https://a11ybadges.com/badge?logo=spring)
  
-<h5 align="left">LANGUAGES (OOP and FP)</h4>
+<h5 align="left">LANGUAGES (OOP and FP)</h5>
   
 ![C](https://a11ybadges.com/badge?logo=c)
 ![C++](https://a11ybadges.com/badge?logo=cplusplus)
@@ -82,14 +82,14 @@
 ![Python](https://a11ybadges.com/badge?logo=python)
 ![R](https://a11ybadges.com/badge?logo=r)
 
-<h5 align="left">LANGUAGES (WEB DEV)</h4>
+<h5 align="left">LANGUAGES (WEB DEV)</h5>
   
 ![HTML5](https://a11ybadges.com/badge?logo=html5)
 ![CSS3](https://a11ybadges.com/badge?logo=css3)
 ![JavaScript](https://a11ybadges.com/badge?logo=javascript)
 ![TypeScript](https://a11ybadges.com/badge?logo=typescript)
 
-<h5 align="left">DATABASES</h4>
+<h5 align="left">DATABASES</h5>
   
 ![MySQL](https://a11ybadges.com/badge?logo=mysql)
 ![MariaDB](https://a11ybadges.com/badge?logo=mariadb)
