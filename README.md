@@ -3,6 +3,8 @@
 ![](https://github.com/FIUPanther-JMolto98/FIUPanther-JMolto98/blob/main/roary_run_slow_fixed.gif)
 ![Joaquin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=FIUPanther-JMolto98&show_icons=true&theme=aura_dark)
 
+![Joaquin's GitHub stats](https://github-readme-stats.vercel.app/api?username=FIUPanther-JMolto98&show_icons=true&title_color=FFCC00&text_color=FFFFFF&icon_color=5AECA4&bg_color=-45,081E3F,B6862C)
+
 <h2 align="left">ABOUT ME 👨‍💻</h2>
 <!-- <h3 align="center">EDUCATION</h3>
 
