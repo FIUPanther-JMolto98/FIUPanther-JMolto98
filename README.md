@@ -8,7 +8,6 @@
 ![](https://github.com/FIUPanther-JMolto98/FIUPanther-JMolto98/blob/main/roary_run_slow_fixed.gif)
 ![](https://github.com/FIUPanther-JMolto98/FIUPanther-JMolto98/blob/main/roary_run_slow_fixed.gif)
 ![](https://github.com/FIUPanther-JMolto98/FIUPanther-JMolto98/blob/main/roary_run_slow_fixed.gif)
-![](https://github.com/FIUPanther-JMolto98/FIUPanther-JMolto98/blob/main/roary_run_slow_fixed.gif)
 
 <h2 align="left">ABOUT ME 👨‍💻</h2>
 <!-- <h3 align="center">EDUCATION</h3>
