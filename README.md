@@ -1,9 +1,10 @@
 <h1 align="center">WELCOME TO MY GITHUB PROFILE</h1>
 
-![](https://github.com/FIUPanther-JMolto98/FIUPanther-JMolto98/blob/main/roary_run_slow_fixed.gif)
-![](https://github-readme-stats-sigma-five.vercel.app/api?username=FIUPanther-JMolto98&show_icons=true&icon_color=5AECA4&title_color=FFCC00&text_color=FFFFFF&bg_color=-45,081E3F,CC0066,CC0066,CC0066,CC0066&hide_border=true)
-
-<p align = "right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FIUPanther-JMolto98&layout=compact&theme=transparent&hide_border=true&title_color=FFCC00&text_color=FFFFFF"></img></p>
+<p align = "center">
+<img src="https://github.com/FIUPanther-JMolto98/FIUPanther-JMolto98/blob/main/roary_run_slow_fixed.gif"></img>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=FIUPanther-JMolto98&show_icons=true&icon_color=5AECA4&title_color=FFCC00&text_color=FFFFFF&bg_color=-45,081E3F,CC0066,CC0066,CC0066,CC0066&hide_border=true"></img>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FIUPanther-JMolto98&layout=compact&theme=transparent&hide_border=true&title_color=FFCC00&text_color=FFFFFF"></img>
+</p>
 
 <h2 align="left">ABOUT ME 👨‍💻</h2>
 <!-- <h3 align="center">EDUCATION</h3>
