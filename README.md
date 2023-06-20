@@ -17,9 +17,12 @@
 <!-- <p>$${\color{pink}MINOR:}$$</p> -->
 <!-- <p align="center">Mathematical Sciences</p> -->
 
-<p align="left">My name is Joaquin Molto. I am a Florida International University (FIU) graduate student.</p>
-<p align="left">I graduated from FIU with a Bachelor of Science in Computer Science (Software Engineering Track) and a Minor in Mathematical Sciences (Single Variable Calculus I through Multivariable Calculus (Calc. III), Differential Equations, and Linear Algebra) in Spring 2023.</p>
-<p align="left">Starting Summer 2023, I matriculated in the Master of Science in Computer Science program at FIU, where I will be furthering my education at the graduate level and broadening my knowledge. I am passionate about Software Development as well as Artificial Intelligence and Machine Learning.</p>
+<p align ="left">My name is Joaquin Molto. I am a Florida International University (FIU) graduate student 🎓🐾
+
+I graduated from FIU with a Bachelor of Science in Computer Science (Software Engineering Track) and a Minor in Mathematical Sciences (Single Variable Calculus I through Multivariable Calculus (Calc. III), Differential Equations, and Linear Algebra) in Spring 2023 👨🏻‍💻🧮
+
+Starting Summer 2023, I matriculated in the Master of Science in Computer Science program at FIU, where I will be furthering my education at the graduate level and broadening my knowledge. I am passionate about Software Development as well as Artificial Intelligence and Machine Learning 🧠🤖</p>
+
 <h2 align="left">CONTACT ME 🐦</h2>
 <a href="https://www.linkedin.com/in/joaquin-molto-fiucompsci/"> 💼LinkedIn</a>
 
