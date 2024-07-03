@@ -13,8 +13,8 @@
 
 <h2 align="left">ABOUT ME   
   <img src="https://github.com/FIUPanther-JMolto98/FIUPanther-JMolto98/blob/main/roary_run_slow_fixed.gif"
-    width="50"
-    height="50"
+    width="75"
+    height="75"
     />
 </h2>
 
