@@ -4,10 +4,6 @@
 ![](https://github-readme-stats-sigma-five.vercel.app/api?username=FIUPanther-JMolto98&show_icons=true&icon_color=5a85c4&title_color=FFCC00&text_color=FFFFFF&bg_color=-45,081E3F00,CC006600,CC006600,CC006600,CC006600&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=FIUPanther-JMolto98&langs_count=10&layout=compact&theme=transparent&title_color=FFCC00&text_color=FFFFFF&hide_border=true)
 
-<p align="right">
-<img src="https://github.com/FIUPanther-JMolto98/FIUPanther-JMolto98/blob/main/roary_run_slow_fixed.gif"></img>
-</p>
-
 <h2 align="left">ABOUT ME 👨‍💻</h2>
 
 <p align="left">
