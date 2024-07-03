@@ -9,17 +9,9 @@
 
 <h2 align="left">ABOUT ME 👨‍💻</h2>
 
-<p align="left">Passionate Computer Science professional with a Master's degree in Computer Science from Florida International University (FIU) with a Minor in Mathematical Sciences. 
+<p align="left">Passionate Computer Science professional with a Master of Science in Computer Science degree with a Minor in Mathematical Sciences from Florida International University (FIU).
 
 I specialize in Full-Stack Web Development with a focus on Artificial Intelligence (AI) and Machine Learning (ML) implementation to create innovative solutions to real-world problems using state-of-the-art technology. 
-
-My graduate-level coursework and extracurriculars have equipped me with a strong foundation in both, core CS principles and lesser-explored technologies. Furthermore, the additional mathematical coursework required for my Minor in Mathematical Sciences has allowed me to gain a deeper intuition behind the mathematical theorems underpinning both classical and modern AI/ML algorithms. Courses such as Linear Algebra allowed me to understand how the adaptable weights in an Artificial Neural Network (ANN) shape the decision boundary through inner product matrix multiplications and activation functions, and courses like Calculus aided me in understanding the optimization algorithms used in ANNs like Stochastic Gradient Descent (SGD) for optimal parameter adjustment.
-
-As a Graduate Research Assistant, I'm currently spearheading the development of M3i Journey, an AI-powered Learning Management System for K-12 financial literacy. This project showcases my ability to leverage advanced technologies like LLMs APIs (OpenAI, Google, Anthropic, etc) and RAG (LlamaIndex, LangChain) frameworks to create impactful, user-centric applications.
-
-My experience spans full-stack web development, data analysis, and the creation of AI-driven tools. Notable projects include NeuroGlimpse, a dashboard for visualizing Large Language Model outputs, SymSage, an innovative Retrieval-Augmented Generation system for mathematics education, and eEVA++, an emotionally intelligent embodied conversational agent that delivers alcohol motivational interviews.
-
-I'm driven by the challenge of integrating AI and ML into practical, user-friendly solutions that push the boundaries of what's possible in software development. Whether it's enhancing educational tools, improving data analysis, or creating more intuitive user interfaces, I'm committed to delivering high-quality, innovative solutions that make a real-world impact.
 
 Always eager to learn and collaborate on projects that leverage technology to solve complex problems and enhance user experiences.
 </p>
