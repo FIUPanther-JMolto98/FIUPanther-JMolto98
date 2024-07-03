@@ -1,12 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=160&section=header&text=Hi!%20I'm%20Joaquin!&fontAlign=50&fontAlignY=70&fontSize=90&fontColor=00000000)
-<h1 align="center">
-  <!--img src="https://github.com/FIUPanther-JMolto98/FIUPanther-JMolto98/blob/main/roary_run_slow_fixed.gif"
-    width="75"
-    height="75"
-    /-->
-  WELCOME TO MY GITHUB PROFILE
-  <!--/img-->
-</h1>
+![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=160&section=header&text=Hi!%20I'm%20Joaquin!&fontAlign=50&fontAlignY=70&fontSize=90&fontColor=FFFFFF)
+
 
 <!--![](https://github-readme-stats-sigma-five.vercel.app/api?username=FIUPanther-JMolto98&show_icons=true&icon_color=5AECA4&title_color=FFCC00&text_color=FFFFFF&bg_color=-45,081E3F,CC0066,CC0066,CC0066,CC0066&hide_border=true)-->
 ![](https://github-readme-stats-sigma-five.vercel.app/api?username=FIUPanther-JMolto98&show_icons=true&icon_color=5a85c4&title_color=FFCC00&text_color=FFFFFF&bg_color=-45,081E3F00,CC006600,CC006600,CC006600,CC006600&hide_border=true)
