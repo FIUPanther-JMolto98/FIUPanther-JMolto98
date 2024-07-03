@@ -30,26 +30,40 @@
 <a href="https://fiu.joinhandshake.com/stu/users/29993123">🤝 HandShake</a>
 
 <h2 align="left">TECHNOLOGIES ⚙️</h2>
+<h3 align="center">
 
-<details>
-<summary><b>OS 💾</b></summary>
+OPERATING SYSTEMS 💾
+  
+![Windows11](https://img.shields.io/badge/Windows_11-0078d4?style=for-the-badge&logo=windows-11&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![CentOS](https://img.shields.io/badge/Cent%20OS-262577?style=for-the-badge&logo=CentOS&logoColor=white)
+![Fedora](https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white)
 
-![Windows](https://a11ybadges.com/badge?logo=windows)<br>
-![Linux](https://a11ybadges.com/badge?logo=linux)<br>
-![CentOS](https://a11ybadges.com/badge?logo=centos)<br>
-![Fedora](https://a11ybadges.com/badge?logo=fedora)<br>
-![Ubuntu](https://a11ybadges.com/badge?logo=ubuntu)
+TERMINALS 💻
 
-</details>
+![Windows Terminal](https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white)
+![PowerShell](https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![GNU Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white)
 
-<details>
-<summary><b>TERMINALS 🖥️</b></summary>
+PROGRAMMING 🦾
 
-![Windows Terminal](https://a11ybadges.com/badge?logo=windowsterminal)<br>
-![PowerShell](https://a11ybadges.com/badge?logo=powershell)<br>
-![GNU Bash](https://a11ybadges.com/badge?logo=gnubash)
+<h4 align="center">
 
-</details>
+VERSION CONTROL
+
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+
+TEXT EDITORS/IDEs
+
+![Visual Studio Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Replit](https://img.shields.io/badge/replit-292929?style=for-the-badge&logo=replit&logoColor=orange)
+![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=292929)
+
+
+
+</h3>
 
 <details>
 <summary><b>PROGRAMMING 🤖</b></summary>
@@ -128,3 +142,5 @@
 
 </details>
 </details>
+
+![Windows11](https://img.shields.io/badge/Windows_11-0078d4?style=for-the-badge&logo=windows-11&logoColor=white)
