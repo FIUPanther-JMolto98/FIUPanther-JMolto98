@@ -1,7 +1,9 @@
-<h1 align="center">WELCOME TO MY GITHUB PROFILE
-  <img src="https://github.com/FIUPanther-JMolto98/FIUPanther-JMolto98/blob/main/roary_run_slow_fixed.gif" 
-     width="75" 
-     height="75" />
+<h1 align="center">
+  <img src="https://github.com/FIUPanther-JMolto98/FIUPanther-JMolto98/blob/main/roary_run_slow_fixed.gif"
+    width="75"
+    height="75"
+    />
+  WELCOME TO MY GITHUB PROFILE
   </img>
 </h1>
 
