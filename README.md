@@ -9,11 +9,11 @@
 
 <h2 align="left">ABOUT ME 👨‍💻</h2>
 
-<p align="left">Passionate Computer Science professional with a Master of Science in Computer Science degree with a Minor in Mathematical Sciences from Florida International University (FIU).
+<p align="left">Passionate Computer Science professional with a Master of Science in Computer Science degree with a Minor in Mathematical Sciences from Florida International University (FIU) 🎓
 
-I specialize in Full-Stack Web Development with a focus on Artificial Intelligence (AI) and Machine Learning (ML) implementation to create innovative solutions to real-world problems using state-of-the-art technology. 
+I specialize in Full-Stack Web Development with a focus on Artificial Intelligence (AI) and Machine Learning (ML) implementation to create innovative solutions to real-world problems using state-of-the-art technology 👨🏻‍💻 
 
-Always eager to learn and collaborate on projects that leverage technology to solve complex problems and enhance user experiences.
+Always eager to learn and collaborate on projects that leverage technology to solve complex problems and enhance user experiences 🤝
 </p>
 
 <h2 align="left">CONTACT ME 🐦</h2>
