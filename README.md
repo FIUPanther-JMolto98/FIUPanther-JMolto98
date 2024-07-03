@@ -29,6 +29,7 @@
 <a href="https://www.linkedin.com/in/joaquin-molto-fiucompsci/">💼 LinkedIn</a><br>
 <a href="https://fiu.joinhandshake.com/stu/users/29993123">🤝 HandShake</a>
 
+<!--
 <h2 align="left">TECHNOLOGIES ⚙️</h2>
 
 <details>
@@ -128,3 +129,4 @@
 
 </details>
 </details>
+-->
