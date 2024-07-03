@@ -13,6 +13,7 @@
 <img src="https://github.com/FIUPanther-JMolto98/FIUPanther-JMolto98/blob/main/roary_run_slow_fixed.gif"
     width="75"
     height="75"
+    align="right"
     />
 
 <h2 align="left">ABOUT ME 👨‍💻</h2>
