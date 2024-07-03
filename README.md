@@ -1,9 +1,10 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=160&section=header&text=Hi!%20I'm%20Joaquin!&fontAlign=50&fontAlignY=70&fontSize=90&fontColor=FFFFFF)
-
+![header](https://capsule-render.vercel.app/api?type=slice&color=0:9F88D1,50:C588D1,100:D18897&height=160&section=header&text=Hi!%20I'm%20Joaquin!✨&fontAlign=50&fontAlignY=70&fontSize=90&fontColor=FFFFFF)
+<!--![header](https://capsule-render.vercel.app/api?type=slice&color=0:FCE57E,100:FCE57E&height=160&section=header&text=Hi!%20I'm%20Joaquin!&fontAlign=50&fontAlignY=70&fontSize=90&fontColor=FFFFFF)-->
 
 <!--![](https://github-readme-stats-sigma-five.vercel.app/api?username=FIUPanther-JMolto98&show_icons=true&icon_color=5AECA4&title_color=FFCC00&text_color=FFFFFF&bg_color=-45,081E3F,CC0066,CC0066,CC0066,CC0066&hide_border=true)-->
-![](https://github-readme-stats-sigma-five.vercel.app/api?username=FIUPanther-JMolto98&show_icons=true&icon_color=5a85c4&title_color=FFCC00&text_color=FFFFFF&bg_color=-45,081E3F00,CC006600,CC006600,CC006600,CC006600&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=FIUPanther-JMolto98&langs_count=10&layout=compact&theme=transparent&title_color=FFCC00&text_color=FFFFFF&hide_border=true)  
+<!--![](https://github-readme-stats-sigma-five.vercel.app/api?username=FIUPanther-JMolto98&show_icons=true&icon_color=5a85c4&title_color=FFCC00&text_color=FFFFFF&bg_color=-45,081E3F00,CC006600,CC006600,CC006600,CC006600&hide_border=true)-->
+![](https://github-readme-stats-sigma-five.vercel.app/api?username=FIUPanther-JMolto98&show_icons=true&icon_color=D18897&title_color=F9C23C&text_color=FFFFFF&bg_color=-45,081E3F00,CC006600,CC006600,CC006600,CC006600&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=FIUPanther-JMolto98&langs_count=10&layout=compact&theme=transparent&title_color=F9C23C&text_color=FFFFFF&hide_border=true)  
   <img src="https://github.com/FIUPanther-JMolto98/FIUPanther-JMolto98/blob/main/roary_run_slow_fixed.gif"
     width="75"
     height="75"
