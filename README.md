@@ -1,3 +1,4 @@
+![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=160&section=header&text=Hi!%20I'm%20Joaquin!&fontAlign=50&fontAlignY=70&fontSize=90&fontColor=00000000)
 <h1 align="center">
   <!--img src="https://github.com/FIUPanther-JMolto98/FIUPanther-JMolto98/blob/main/roary_run_slow_fixed.gif"
     width="75"
