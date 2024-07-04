@@ -32,21 +32,26 @@
 <h2 align="left">TECHNOLOGIES ⚙️</h2>
 <h3 align="left">
 
-OPERATING SYSTEMS 💾
+<details>
+<summary>OPERATING SYSTEMS 💾</summary>
   
 ![Windows11](https://img.shields.io/badge/Windows_11-0078d4?style=for-the-badge&logo=windows-11&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![CentOS](https://img.shields.io/badge/Cent%20OS-262577?style=for-the-badge&logo=CentOS&logoColor=white)
 ![Fedora](https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white)
+</details>
 
-TERMINALS 💻
+<details>
+<summary>TERMINALS 💻</summary>
 
 ![Windows Terminal](https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 ![GNU Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white)
+</details>
 
-PROGRAMMING 🦾
+<details>
+<summary>PROGRAMMING 🦾</summary>
 <h6 align="center">
   
 <br/>VERSION CONTROL<br/>
@@ -93,5 +98,6 @@ PROGRAMMING 🦾
 ![Wolfram](https://img.shields.io/badge/Wolfram-DD1100?&style=for-the-badge&logo=Wolfram&logoColor=white)
 ![Mendeley](https://img.shields.io/badge/Mendeley-9D1620?style=for-the-badge&logo=Mendeley&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=Overleaf&logoColor=white)
+</details>
 </h6>
 </h3>
