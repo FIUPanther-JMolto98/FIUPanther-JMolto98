@@ -47,7 +47,7 @@ TERMINALS 💻
 ![GNU Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white)
 
 PROGRAMMING 🦾
-<h6 align="left">
+<h6 align="center">
   
 <br/>VERSION CONTROL<br/>
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
