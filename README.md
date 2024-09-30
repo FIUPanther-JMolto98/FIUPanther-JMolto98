@@ -25,7 +25,7 @@
 
 <h2 align="left">CONTACT ME 🐦</h2>
 
-<a href="https://jpanther1122-devportfolio-bf5f17b876b9.herokuapp.com/">👨🏻‍💻Dev Website</a><br>
+<a href="https://jpanther1122-devportfolio-bf5f17b876b9.herokuapp.com/](https://portfolio-fiupanther-jmolto98s-projects.vercel.app/">👨🏻‍💻Dev Website</a><br>
 <a href="https://www.linkedin.com/in/joaquin-molto-fiucompsci/">💼 LinkedIn</a><br>
 <a href="https://fiu.joinhandshake.com/stu/users/29993123">🤝 HandShake</a>
 
